@@ -42,7 +42,7 @@ export default function Hero() {
             Start Analyzing <ArrowRight size={18} />
           </Link>
           <a
-            href="https://github.com/cocode-dev/cocode"
+            href="https://github.com/Cocode-Technologies/CoCode"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-ghost flex items-center gap-2 text-base px-8 py-3.5"
